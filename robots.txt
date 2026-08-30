@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /
-
-# Local validation package. Do not index before an approved publication decision.
+Allow: /
